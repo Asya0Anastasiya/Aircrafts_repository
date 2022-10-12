@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\Lab_Aircraft\Lab_Aircraft\bin\Debug\net5.0\Lab_Aircraft.exe
+C:\Users\Administrator\source\repos\Lab_Aircraft\Lab_Aircraft\bin\Debug\net5.0\Lab_Aircraft.deps.json
+C:\Users\Administrator\source\repos\Lab_Aircraft\Lab_Aircraft\bin\Debug\net5.0\Lab_Aircraft.runtimeconfig.json
+C:\Users\Administrator\source\repos\Lab_Aircraft\Lab_Aircraft\bin\Debug\net5.0\Lab_Aircraft.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Lab_Aircraft\Lab_Aircraft\bin\Debug\net5.0\Lab_Aircraft.dll
+C:\Users\Administrator\source\repos\Lab_Aircraft\Lab_Aircraft\bin\Debug\net5.0\ref\Lab_Aircraft.dll
+C:\Users\Administrator\source\repos\Lab_Aircraft\Lab_Aircraft\bin\Debug\net5.0\Lab_Aircraft.pdb
+C:\Users\Administrator\source\repos\Lab_Aircraft\Lab_Aircraft\obj\Debug\net5.0\Lab_Aircraft.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Lab_Aircraft\Lab_Aircraft\obj\Debug\net5.0\Lab_Aircraft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Lab_Aircraft\Lab_Aircraft\obj\Debug\net5.0\Lab_Aircraft.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Lab_Aircraft\Lab_Aircraft\obj\Debug\net5.0\Lab_Aircraft.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Lab_Aircraft\Lab_Aircraft\obj\Debug\net5.0\Lab_Aircraft.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lab_Aircraft\Lab_Aircraft\obj\Debug\net5.0\Lab_Aircraft.dll
+C:\Users\Administrator\source\repos\Lab_Aircraft\Lab_Aircraft\obj\Debug\net5.0\ref\Lab_Aircraft.dll
+C:\Users\Administrator\source\repos\Lab_Aircraft\Lab_Aircraft\obj\Debug\net5.0\Lab_Aircraft.pdb
+C:\Users\Administrator\source\repos\Lab_Aircraft\Lab_Aircraft\obj\Debug\net5.0\Lab_Aircraft.genruntimeconfig.cache

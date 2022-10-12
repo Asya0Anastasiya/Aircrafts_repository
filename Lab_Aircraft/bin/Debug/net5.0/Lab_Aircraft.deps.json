@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lab_Aircraft/1.0.0": {
+        "runtime": {
+          "Lab_Aircraft.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab_Aircraft/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
